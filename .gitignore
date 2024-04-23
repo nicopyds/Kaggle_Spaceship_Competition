@@ -1,0 +1,7 @@
+*.ipynb_checkpoints
+*__pycache__
+venvs
+videos
+catboost_info
+.DS_Store
+outputs
