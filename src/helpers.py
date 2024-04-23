@@ -12,8 +12,6 @@ class DebuggerTransformer(BaseEstimator, TransformerMixin):
         print("DummyTransformer")
         return X
 
-
-
 class CabinLetterExtractor(BaseEstimator, TransformerMixin):
 
 
